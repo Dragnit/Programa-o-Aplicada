@@ -1,0 +1,7 @@
+#Database Properties
+#Tue Mar 26 02:01:28 GMT 2024
+db.ip=localhost
+db.name=pa_projeto
+db.password=1234
+db.port=3306
+db.user=root
