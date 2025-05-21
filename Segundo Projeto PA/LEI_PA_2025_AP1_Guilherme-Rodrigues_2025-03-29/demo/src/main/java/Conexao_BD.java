@@ -19,7 +19,7 @@ import java.util.Scanner;
 public class Conexao_BD 
 {
     
-    private static final String PROPERTIES_FILE = "/home/rodrigues/Área de Trabalho/LEI_PA_2025_AP1_Guilherme-Rodrigues_2025-03-29/demo/src/main/java/properties.txt";
+    private static final String PROPERTIES_FILE = "/home/rodrigues/escola/PA/Segundo Projeto PA/LEI_PA_2025_AP1_Guilherme-Rodrigues_2025-03-29/demo/src/main/java/properties.txt";
     private static String URL;
     private static String USER;
     private static String PASSWORD;
